@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "multi2line"
+version = "0.1.0"
+description = ""
+authors = ["tommasodelorenzo <tommasodelorenzo@yahoo.it>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+shapely = "^2.0.1"
+pyproj = "^3.5.0"
+tqdm = "^4.65.0"
+psycopg2-binary = "^2.9.5"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
