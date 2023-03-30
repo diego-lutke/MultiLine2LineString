@@ -1,6 +1,8 @@
 # MultiLine2LineString
 This repository contains a Python script that converts MultiLineStrings to LineStrings. It was developed because I needed to manipulate public transport paths from OpenStreetMap data in a peculiar way, which required handling the data as LineStrings instead of MultiLineStrings.
 
+**Be aware: it is not optimized code (yet)!**
+
 ## Repository Structure
 ```
 .
